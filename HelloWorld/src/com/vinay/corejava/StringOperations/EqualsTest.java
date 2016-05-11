@@ -12,5 +12,6 @@ public class EqualsTest {
 		System.out.println(null==null);//always true
 		System.out.println(s3==null);//not pointing to any object
 		System.out.println(s4==null);//default value of instance variable is null
+		System.out.println("Tester");
 	}
 }
